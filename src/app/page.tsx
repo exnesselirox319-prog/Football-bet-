@@ -37,8 +37,8 @@ import { RewardedAdModal } from "@/RewardedAdModal";
 import { LeaderboardModal } from "@/LeaderboardModal";
 import { AuthModal } from "@/AuthModal";
 import { SoundToggle } from "@/SoundButton";
-import { Language, translations } from "@/lib/translations";
-import { soundFx } from "@/lib/audio";
+import { Language, translations } from "@/translations";
+import { soundFx } from "@/audio";
 
 export default function HomePage() {
   const [lang, setLang] = useState<Language>("ur");
