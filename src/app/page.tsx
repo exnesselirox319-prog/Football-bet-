@@ -25,18 +25,18 @@ import {
   LogIn,
   Crown,
 } from "lucide-react";
-import { PenaltyShootout } from "@/components/PenaltyShootout";
-import { SoccerMatch1v1 } from "@/components/SoccerMatch1v1";
-import { CrossbarTargetMaster } from "@/components/CrossbarTargetMaster";
-import { OwnerDashboard } from "@/components/OwnerDashboard";
-import { DepositModal } from "@/components/DepositModal";
-import { WithdrawModal } from "@/components/WithdrawModal";
-import { ShopModal } from "@/components/ShopModal";
-import { DailyLuckySpinModal } from "@/components/DailyLuckySpinModal";
-import { RewardedAdModal } from "@/components/RewardedAdModal";
-import { LeaderboardModal } from "@/components/LeaderboardModal";
-import { AuthModal } from "@/components/AuthModal";
-import { SoundToggle } from "@/components/SoundButton";
+import { PenaltyShootout } from "@/PenaltyShootout";
+import { SoccerMatch1v1 } from "@/SoccerMatch1v1";
+import { CrossbarTargetMaster } from "@/CrossbarTargetMaster";
+import { OwnerDashboard } from "@/OwnerDashboard";
+import { DepositModal } from "@/DepositModal";
+import { WithdrawModal } from "@/WithdrawModal";
+import { ShopModal } from "@/ShopModal";
+import { DailyLuckySpinModal } from "@/DailyLuckySpinModal";
+import { RewardedAdModal } from "@/RewardedAdModal";
+import { LeaderboardModal } from "@/LeaderboardModal";
+import { AuthModal } from "@/AuthModal";
+import { SoundToggle } from "@/SoundButton";
 import { Language, translations } from "@/lib/translations";
 import { soundFx } from "@/lib/audio";
 
