@@ -50,7 +50,7 @@ export default function HomePage() {
   // User & Balances State
   const [user, setUser] = useState({
     username: "Player_1",
-    displayName: "Muhammad Ali",
+    displayName: "Allahditta RABNAWAZ ",
     balanceUsd: "10.00",
     coins: 300,
     avatar: "⚽",
